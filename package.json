@@ -1,19 +1,14 @@
 {
   "name": "cms",
   "version": "1.0.0",
-  "description": "��#\u0000 \u0000n\u0000o\u0000d\u0000e\u0000-\u0000c\u0000m\u0000s\u0000\r\u0000 \u0000",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Arfly/node-cms.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Arfly/node-cms/issues"
-  },
-  "homepage": "https://github.com/Arfly/node-cms#readme"
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10"
+  }
 }
